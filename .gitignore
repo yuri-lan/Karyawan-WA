@@ -1,0 +1,17 @@
+# Konfigurasi rahasia - JANGAN diupload!
+config/config.php
+
+# File testing sementara
+hash.php
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Composer (kalau ada nanti)
+/vendor/
